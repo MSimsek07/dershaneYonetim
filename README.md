@@ -1,38 +1,36 @@
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
+    Dershane Yönetim Sistemi
 </h1>
 
 <h3 align="center">
-Streamline school management, class organization, and add students and faculty.<br>
-Seamlessly track attendance, assess performance, and provide feedback. <br>
-Access records, view marks, and communicate effortlessly.
+Okul yönetimini ve sınıf organizasyonunu kolaylaştırın ve öğrenci ve öğretim üyesi ekleyin.<br>
+Katılımı sorunsuz bir şekilde takip edin, performansı değerlendirin ve geri bildirim sağlayın.<br>
+Kayıtlara erişin, işaretleri görüntüleyin ve zahmetsizce iletişim kurun.
 </h3>
 
 <br>
 
-[Youtube Video](https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC)
 <br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
 
 # About
 
-The School Management System is a web-based application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to streamline school management, class organization, and facilitate communication between students, teachers, and administrators.
+Okul Yönetim Sistemi, MERN (MongoDB, Express.js, React.js, Node.js) teknolojileri kullanılarak oluşturulmuş web tabanlı bir uygulamadır. Okul yönetimini, sınıf organizasyonunu kolaylaştırmayı ve öğrenciler, öğretmenler ve yöneticiler arasındaki iletişimi kolaylaştırmayı amaçlamaktadır.
 
-## Features
+## Özellikler
 
-- **User Roles:** The system supports three user roles: Admin, Teacher, and Student. Each role has specific functionalities and access levels.
+- **Kullanıcı Rolleri:** Sistem üç kullanıcı rolünü destekler: Yönetici, Öğretmen ve Öğrenci. Her rolün belirli işlevleri ve erişim düzeyleri vardır.
 
-- **Admin Dashboard:** Administrators can add new students and teachers, create classes and subjects, manage user accounts, and oversee system settings.
+- **Yönetici Kontrol Paneli:** Yöneticiler yeni öğrenciler ve öğretmenler ekleyebilir, sınıflar ve konular oluşturabilir, kullanıcı hesaplarını yönetebilir ve sistem ayarlarını denetleyebilir.
 
-- **Attendance Tracking:** Teachers can easily take attendance for their classes, mark students as present or absent, and generate attendance reports.
+- **Devamsızlık Takibi:** Öğretmenler derslerine kolaylıkla yoklama alabilir, öğrencileri mevcut veya yok olarak işaretleyebilir ve yoklama raporları oluşturabilir.
 
-- **Performance Assessment:** Teachers can assess students' performance by providing marks and feedback. Students can view their marks and track their progress over time.
+- **Performans Değerlendirmesi:** Öğretmenler, notlar ve geri bildirimler sağlayarak öğrencilerin performansını değerlendirebilir. Öğrenciler notlarını görüntüleyebilir ve zaman içindeki ilerlemelerini takip edebilirler.
 
-- **Data Visualization:** Students can visualize their performance data through interactive charts and tables, helping them understand their academic performance at a glance.
+- **Veri Görselleştirme:** Öğrenciler, performans verilerini etkileşimli grafikler ve tablolar aracılığıyla görselleştirerek akademik performanslarını bir bakışta anlamalarına yardımcı olabilir.
 
-- **Communication:** Users can communicate effortlessly through the system. Teachers can send messages to students and vice versa, promoting effective communication and collaboration.
+- **İletişim:** Kullanıcılar sistem aracılığıyla zahmetsizce iletişim kurabilir. Öğretmenler öğrencilere ve öğrencilere mesaj göndererek etkili iletişimi ve işbirliğini teşvik edebilir.
 
-## Technologies Used
+## Kullanılan Teknolojiler
 
 - Frontend: React.js, Material UI, Redux
 - Backend: Node.js, Express.js
@@ -43,7 +41,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
+git clone https://github.com/MSimsek07/dershaneYonetim.git
 ```
 Open 2 terminals in separate windows/tabs.
 
