@@ -12,7 +12,7 @@ Kayıtlara erişin, işaretleri görüntüleyin ve zahmetsizce iletişim kurun.
 
 <br><br>
 
-# About
+# Hakkında
 
 Okul Yönetim Sistemi, MERN (MongoDB, Express.js, React.js, Node.js) teknolojileri kullanılarak oluşturulmuş web tabanlı bir uygulamadır. Okul yönetimini, sınıf organizasyonunu kolaylaştırmayı ve öğrenciler, öğretmenler ve yöneticiler arasındaki iletişimi kolaylaştırmayı amaçlamaktadır.
 
